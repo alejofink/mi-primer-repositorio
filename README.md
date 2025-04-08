@@ -1,1 +1,1 @@
-# mi-primer-repositorio
+# mi-primer-repositorio Hola, soy Alejo Fink. Esta es mi primer repositorio en GitHub para la clasede programacion. ##Sobre mí- Estudiante de Tecnicatura superior en desarrollo de software- Me interesa aprender sobre el mundo de la programacion lo maximo posible.
